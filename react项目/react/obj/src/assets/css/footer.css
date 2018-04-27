@@ -1,0 +1,12 @@
+.footer .width1190{border-top:#ccc 1px solid; font-size:14px;}
+.footer .fl{width:448px; height:100px; line-height:100px;border-right:#ccc 1px solid;}
+.footer .fl a{ display:inline-block;margin-right:30px;}
+.footer .fr{width:690px;padding:12px 0 0 0;}
+.footer .fr dl{float:left;width:270px;}
+.footer .fr dt{float:left;width:76px; height:76px;border:#ccc 1px solid;}
+.footer .fr dd{float:right;width:180px;color:#666;padding:15px 0 0 0; line-height:20px;}
+
+/*copy*/
+.copy{width:100%; height:40px; line-height:40px; background:#2d2d2d; font-size:14px; text-align:center;color:#fff;}
+.copy a{color:#fff;}
+.copy a:hover{ text-decoration:underline;}
